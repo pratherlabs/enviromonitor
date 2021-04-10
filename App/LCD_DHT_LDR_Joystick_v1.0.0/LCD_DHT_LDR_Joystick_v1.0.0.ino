@@ -1,5 +1,5 @@
 // Environmental Data Collector with LCD Screen & User-defined LED Indicator(s)
-// Version: 1.1.2
+// Version: 1.0.0
 // By: Cole B. Prather
 // Date: April 1, 2021
 //
